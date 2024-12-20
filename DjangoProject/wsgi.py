@@ -15,5 +15,5 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DjangoProject.settings')
 
 application = get_wsgi_application()
 
-app = application
+
 
